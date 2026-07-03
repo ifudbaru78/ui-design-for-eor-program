@@ -1,0 +1,6 @@
+{
+  "name": "EOR Kontainer Mobile",
+  "description": "Aplikasi mobile-first untuk pencatatan dan estimasi perbaikan kontainer (Estimate of Repair - EOR) di lapangan dengan fitur input cepat, visualisasi kerusakan, dan asisten pintar bertenaga AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
